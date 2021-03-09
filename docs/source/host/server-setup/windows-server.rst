@@ -64,6 +64,17 @@ This will assign your domain with a permanent, unique identification code that r
 
 Now, your domain is officially part of the expanding metaverse! 
 
+--------------------
+Test your local server
+--------------------
+
+To test your local server you can either right-click the Vircadia server icon in the system tray and click Visit Sandbox, or you can use the Explorer inside Vircadia by writing localhost and connect.
+
+You'll experience an empty world. Let your creativity lose!
+
+Should you want to import the map "The HQ", download the latest version here - https://github.com/vircadia/vircadia-content/blob/master/Bazaar/Worlds/HQ-HiFi/HQ-HiFi-World-Config.zip.
+To import go to your server settings, navigate to Content and Upload Content to upload the zip file.
+
 ------------
 What's Next?
 ------------
