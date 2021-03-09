@@ -146,3 +146,18 @@ Troubleshooting
 | * Volume is turned down or off in Vircadia. Open the **Audio** app and check your volume            |
 |   settings.                                                                                         |
 +-----------------------------------------------------------------------------------------------------+
+
++-----------------------------------------------------------------------------------------------------+
+| .. _no-output:                                                                                      |
+|                                                                                                     |
+| Some textures are blurry                                                                            |
++=====================================================================================================+
+| In case the world is rendering fine on your client but some textures appear blurry it might be      |
+| due to an automatic texture memory not functioning property.                                        |
+|                                                                                                     |
+| Inside the Vircadia client top menu:                                                                |
+| 1. Settings, click to enable Developer Menu                                                         |
+| 2. Click Developer in the menu bar, Render, Maxiumum Texture Memory and select 8192MB               |
+|                                                                                                     |
+| The textures should load correctly now.                                                             |
++-----------------------------------------------------------------------------------------------------+
